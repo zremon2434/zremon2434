@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Arduino,Powerpoint,Coding**
 
-- 📫 How to reach me **ek120472@gmail.com**
+- 📫 How to reach me **zremon563@gmail.com**
 
 - ⚡ Fun fact **A little bit.**
 
