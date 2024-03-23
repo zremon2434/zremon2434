@@ -9,7 +9,7 @@ Passionate Arduino enthusiast and CAD designer, constantly innovating and buildi
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [zremon563@gmail.com](mailto:zremon563@gmail.com)
 * 🚀  I'm currently working on [CAD Model](http://github.com/zremon2434/Solidwork)
-* 🧠  I'm learning Arduino, Matlab, C
+* 🧠  I'm learning Arduino, CAD, C
 * 🤝  I'm open to collaborating on Other CAD and Arduino projects!
 * ⚡  I enjoy collecting and reading manga
 
